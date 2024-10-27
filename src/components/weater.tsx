@@ -51,7 +51,7 @@ const WeatherApp: React.FC<WeatherComponentProps> = ({ country }) => {
   if (error) return <p>{error}</p>;
 
   return (
-    <div>
+    <div className="mt-10">
       {weatherData && (
         <div  className="flex flex-col justify-center mt-5 bg-gradient-to-l from-slate-800 to-violet-700 text-white rounded-xl py-4 px-6">
             <h2 className="flex gap-x-3 font-bold text-3xl">Weather Information for  {weatherData.name}, {weatherData.sys.country}<CiLocationOn /></h2>

@@ -9,7 +9,7 @@ const SearchBox: React.FC = () => {
 
   return (
     <>
-      <div className="flex justify-center">
+      <div className="flex justify-center mt-10">
         <div className="flex items-center focus-within:outline w-[600px] bg-white rounded-xl px-3">
           <input
             className="w-full py-2 px-3 outline-none rounded-xl"
