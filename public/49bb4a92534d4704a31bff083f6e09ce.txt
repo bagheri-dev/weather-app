@@ -1,0 +1,8 @@
+49bb4a92534d4704a31bff083f6e09ce
+
+ممبرز
+e054317e683686e109aa90cb8b17aba6
+
+api :
+
+https://api.openweathermap.org/data/2.5/weather?lat=32.6475314&lon=54.5643516&units=metric&appid=e054317e683686e109aa90cb8b17aba6
