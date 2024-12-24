@@ -30,5 +30,5 @@ A React-based weather application that allows users to check real-time weather d
    ```bash
    git clone https://github.com/bagheri-dev/weather-app.git
    cd weather-app
-   npm install
-   npm run dev
+   yarn
+   yarn dev
